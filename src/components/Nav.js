@@ -18,7 +18,7 @@ export default function Nav() {
         <Navbar.Brand href="/myreactportfolio/">
           <img className="logo" src={Logo} alt="logo" />
         </Navbar.Brand>
-        <Navbar.Toggle aria-controls="basic-navbar-nav" />
+        <Navbar.Toggle aria-controls="basic-navbar-nav" onClick={() => setNavbarExpanded(!navbarExpanded)}/>
         <Navbar.Collapse className="justify-content-end" id="basic-navbar-nav">
           <NavB className="px-5">
           <NavB.Link as={Link} to="/" onClick={closeNavbar}>Home</NavB.Link>
