@@ -13,7 +13,7 @@ export default function Nav() {
     setNavbarExpanded(false);
   };
   return (
-    <Navbar expand="lg" className="navbar p-0">
+    <Navbar expand="lg" className="navbar p-0" expanded={navbarExpanded}>
       <Container fluid className="px-1">
         <Navbar.Brand href="/myreactportfolio/">
           <img className="logo" src={Logo} alt="logo" />
