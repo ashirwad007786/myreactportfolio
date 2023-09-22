@@ -2,7 +2,7 @@ import React from "react";
 import Typewriter from "typewriter-effect";
 import { FaLinkedinIn, FaInstagram} from "react-icons/fa";
 import {AiOutlineMail} from 'react-icons/ai'
-import {Container,Row,Col,Button} from 'react-bootstrap';
+import {Container,Row,Col} from 'react-bootstrap';
 import Img from "../Images/a1.png";
 import GlobeAnimation from "../components/GlobeAnimation";
 
