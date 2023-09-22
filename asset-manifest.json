@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/myreactportfolio/static/css/main.46c924c9.css",
+    "main.js": "/myreactportfolio/static/js/main.ccee450b.js",
+    "static/media/skillsRight.gif": "/myreactportfolio/static/media/skillsRight.9ba7564e58089172e599.gif",
+    "static/media/Abpng.gif": "/myreactportfolio/static/media/Abpng.204daf4d13bf8478cfd4.gif",
+    "static/media/a1.png": "/myreactportfolio/static/media/a1.9e59e829f5cca21e3a2d.png",
+    "static/media/nodejs.png": "/myreactportfolio/static/media/nodejs.d980d9636ace07ad3dde.png",
+    "static/media/jquery.png": "/myreactportfolio/static/media/jquery.eb105fbbfb1112c72276.png",
+    "static/media/css.png": "/myreactportfolio/static/media/css.3b437a11505834ed3e15.png",
+    "static/media/js.png": "/myreactportfolio/static/media/js.f3ac6b6a6f2c57a76929.png",
+    "static/media/boyCoder.png": "/myreactportfolio/static/media/boyCoder.489c45effc03ca2ce0d5.png",
+    "static/media/git.png": "/myreactportfolio/static/media/git.69ffd9cd5a846c976177.png",
+    "static/media/commerce.png": "/myreactportfolio/static/media/commerce.f42abaabfdebd96ad00c.png",
+    "index.html": "/myreactportfolio/index.html",
+    "main.46c924c9.css.map": "/myreactportfolio/static/css/main.46c924c9.css.map",
+    "main.ccee450b.js.map": "/myreactportfolio/static/js/main.ccee450b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46c924c9.css",
+    "static/js/main.ccee450b.js"
+  ]
+}
